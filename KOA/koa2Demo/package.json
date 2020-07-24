@@ -1,0 +1,15 @@
+{
+  "name": "koa2demo",
+  "version": "1.0.0",
+  "description": "koa2 demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LiuWenJin",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-router": "^9.1.0"
+  }
+}
